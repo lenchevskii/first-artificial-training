@@ -1,2 +1,3 @@
-# first-artificial-training
-Artificial Intelligence training provided by BelHard Academy 
+# Introduction to AI & ML
+
+Artificial Intelligence training provided by BelHard Academy.
